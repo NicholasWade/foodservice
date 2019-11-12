@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a9e3bb73-d789-4d8e-928a-19a1b4e75017" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/crm/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mfscrm/crm/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfscrm/mfscrm/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mfscrm/mfscrm/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -72,7 +74,10 @@
       <option name="presentableId" value="Default" />
       <updated>1570614984807</updated>
       <workItem from="1570614992243" duration="6648000" />
-      <workItem from="1570771297677" duration="19536000" />
+      <workItem from="1570771297677" duration="20069000" />
+      <workItem from="1570796376775" duration="131000" />
+      <workItem from="1571071455528" duration="632000" />
+      <workItem from="1573519430915" duration="1620000" />
     </task>
     <servers />
   </component>
@@ -84,7 +89,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
